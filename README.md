@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Noman Mumtaz. <br><br>- 🔭 I’m a Computer Science Engineering student. <br>- 📚 I'm currently learning C++, Data Structures, Algorithms and some other stuff. <br>- ⚡ In my free time I play video games, capture moments on my camera, travel.</p>
 
 ###
 
